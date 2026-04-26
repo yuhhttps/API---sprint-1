@@ -1,10 +1,11 @@
 # 📌 MVP - Aldo Pereira Solutions.
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+O MVP tem como objetivo validar uma solução de análise integrada de comércio exterior + logística, permitindo compreender como os fluxos de importação e exportação se relacionam com a infraestrutura logística dos municípios do estado de São Paulo.
+
+- Problema: Empresas e analistas têm dificuldade em correlacionar dados de comércio exterior com fatores logísticos (localização, transporte, fluxo de mercadorias), o que dificulta decisões estratégicas.
+- Hipótese: Se os dados de importação/exportação forem apresentados junto com contexto logístico (município, localização estratégica, volume de fluxo), será possível identificar padrões e gargalos logísticos com mais facilidade.
+- Valor entregue: Visualização clara e integrada dos fluxos comerciais e da relevância logística dos municípios, com destaque para São José dos Campos.
 
 ---
 
