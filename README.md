@@ -29,12 +29,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo analisar e facilitar a compreensão da logística e do comércio exterior nos municípios do estado de São Paulo, visando:
+
+- Centralizar dados de importação e exportação de maneira organizada;
+- Organizar e estruturar as informações para análise logística e econômica;
+- Identificar padrões e tendências no fluxo de mercadorias entre 2021 e 2026;
+- Facilitar a visualização dos dados por meio de dashboards interativos;
+- Auxiliar tomadas de decisões estratégicas com base em dados;
+- Desenvolver habilidades técnicas em análise de dados, logística e ferramentas como Python e Power BI.
 
 
 ## Tecnologias Utilizadas
