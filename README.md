@@ -29,14 +29,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo analisar e facilitar a compreensão da logística e do comércio exterior nos municípios do estado de São Paulo, visando:
+Os objetivos estabelecidos para esse projeto consistem em:
 
-- Centralizar dados de importação e exportação de maneira organizada;
-- Organizar e estruturar as informações para análise logística e econômica;
-- Identificar padrões e tendências no fluxo de mercadorias entre 2021 e 2026;
-- Facilitar a visualização dos dados por meio de dashboards interativos;
-- Auxiliar tomadas de decisões estratégicas com base em dados;
-- Desenvolver habilidades técnicas em análise de dados, logística e ferramentas como Python e Power BI.
+- Analisar a dinâmica do comércio exterior dos municípios do estado de São Paulo entre janeiro de 2021 e fevereiro de 2026, identificando tendências de crescimento e o perfil logístico-comercial da região, com foco particular no desempenho econômico de São José dos Campos;
+- Desenvolver dashboards interativos em Power BI, integrados a scripts de tratamento de dados em Python (Google Colab), para facilitar a interpretação visual e o monitoramento das variações comerciais no período estudado;
+- Avaliar a evolução temporal dos indicadores econômicos de São José dos Campos, correlacionando seus dados com as tendências estaduais para identificar setores de crescimento acelerado.
+
 
 
 ## Tecnologias Utilizadas
