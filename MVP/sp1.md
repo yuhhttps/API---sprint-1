@@ -99,15 +99,15 @@ O foco foi validar:
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
+| 01     | Tabelas de importação e exportação (2021–2026), Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para as regiões de São José do Rio Preto e Santos (2022 e 2023).                        | Concluído|
 | 02     | [Funcionalidade Z]                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize e analise dados de importação e exportação por município, região administrativa e período.  
+- O sistema deve registrar os dados de comércio exterior estruturados em tabelas de importação, exportação e regiões administrativas, garantindo a consistência das informações.
+- Métricas coletadas: tempo de resposta do dashboard, taxa de uso dos filtros e nível de interação com gráficos (cliques e seleções).  
 
 ---
 
