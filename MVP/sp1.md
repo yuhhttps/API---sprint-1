@@ -41,10 +41,12 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 - Via de transporte;
 - Mapa com municípios das regiões.
 
+
 ⚠ Limitações conhecidas:
 - Análise restrita a apenas 2 regiões administrativas;
 - Dados filtrados apenas para 2 anos (2022 e 2023);
 - Interface limitada ao Power BI (não acessível externamente).
+
 
 🎯 Escopo reduzido (MVP)
 
