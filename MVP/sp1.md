@@ -1,19 +1,56 @@
 # 📌 MVP - Aldo Pereira Solutions.
 
-## 🎯 Objetivo do MVP
-O MVP tem como objetivo validar uma solução de análise integrada de comércio exterior + logística, permitindo compreender como os fluxos de importação e exportação se relacionam com a infraestrutura logística dos municípios do estado de São Paulo.
+## 🎯 Objetivo do MVP:
+O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de análise e visualização de dados de comércio exterior no estado de São Paulo, com foco inicial em regiões específicas.
 
-- Problema: Empresas e analistas têm dificuldade em correlacionar dados de comércio exterior com fatores logísticos (localização, transporte, fluxo de mercadorias), o que dificulta decisões estratégicas.
-- Hipótese: Se os dados de importação/exportação forem apresentados junto com contexto logístico (município, localização estratégica, volume de fluxo), será possível identificar padrões e gargalos logísticos com mais facilidade.
-- Valor entregue: Visualização clara e integrada dos fluxos comerciais e da relevância logística dos municípios, com destaque para São José dos Campos.
+- Problema que resolve: Atualmente, informações sobre importação e exportação estão dispersas e pouco acessíveis para análise prática, dificultando a identificação de padrões logísticos, oportunidades de mercado e tomada de decisão estratégica.
+
+- Hipótese a ser validada: Se os dados de comércio exterior forem organizados, filtrados e apresentados de forma visual e interativa (via Power BI), será possível identificar padrões relevantes de importação e exportação, facilitando análises estratégicas.
+
+- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2022 e 2023) das regiões administrativas de São José do Rio Preto e Santos, permitindo:
+
+-> Visualização clara dos fluxos de importação e exportação;
+-> Identificação de principais produtos (NCM);
+-> Análise de valores (FOB e frete);
+-> Compreensão dos modais de transporte utilizados;
+-> Visualização geográfica dos municípios;
+
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comércio exterior, utilizando Python (Google Colab) para tratamento de dados e Power BI para visualização.
+
+✔ Funcionalidades principais: Criação de tabelas de:
+- Exportação (2021 a 2026);
+- Importação (2021 a 2026);
+- Regiões administrativas.
+
+- Filtro de dados no Power BI para:
+- Regiões: São José do Rio Preto e Santos;
+- Período: 2022 e 2023.
+
+- Visualização das seguintes informações:
+- Código NCM (produto);
+- Valor FOB (US$);
+- Valor de frete;
+- País de origem/destino;
+- Via de transporte;
+- Mapa com municípios das regiões.
+
+⚠ Limitações conhecidas:
+- Análise restrita a apenas 2 regiões administrativas;
+- Dados filtrados apenas para 2 anos (2022 e 2023);
+- Interface limitada ao Power BI (não acessível externamente).
+
+🎯 Escopo reduzido (MVP)
+
+O foco foi validar:
+
+- Estruturação dos dados;
+- Capacidade de filtragem;
+- Geração de insights básicos via visualização.
+
 
 ---
 
