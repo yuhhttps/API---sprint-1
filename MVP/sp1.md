@@ -61,18 +61,21 @@ O foco foi validar:
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1: Analista Institucional de Dados (CADI).**
 
+
+👥 **Persona 1: Analista Institucional de Dados (CADI).**
 - Descrição: Analista responsável pelo acompanhamento do desempenho dos municípios no comércio exterior.
 - Necessidades: Analisar grandes volumes de dados de importação e exportação para identificar padrões, tendências e comparações entre municípios. No entanto, existem dificuldades devido à falta de organização e padronização dessas informações, além do alto tempo necessário para tratamento manual dos dados.
 - Dores atendidas: A sprint 1 atende essa necessidade ao estruturar e apresentar os dados de forma visual e interativa, permitindo análises mais rápidas, comparações regionais eficientes e geração de insights estratégicos com menor esforço operacional.
+
     
-- **Persona 2: Estudante/Pesquisador**
+👥 **Persona 2: Estudante/Pesquisador**
 - Descrição: Usuário acadêmico que realiza estudos sobre logística e comércio exterior.
 - Necessidades: O pesquisador necessita de dados confiáveis e estruturados para desenvolver análises e estudos sobre o comércio exterior. Porém, frequentemente enfrenta dificuldades na coleta, limpeza e organização dessas informações, o que consome tempo e limita a profundidade das análises.
 - Dores atendidas: Contribuímos ao oferecer uma base de dados tratada e pronta para exploração, permitindo que o usuário foque na interpretação dos dados, identificação de padrões e desenvolvimento de estudos mais consistentes.
 
-- **Persona 3: Analista de Logística**
+
+👥 **Persona 3: Analista de Logística**
 - Descrição: Profissional responsável pelo planejamento e otimização de transporte e distribuição.
 - Necessidades: O analista de logística busca entender quais vias de transporte são mais utilizadas, como os custos de frete impactam as operações e quais rotas são mais eficientes. Entretanto, a falta de dados integrados e de fácil visualização dificulta a análise logística completa.
 - Dores atendidas: Atendemos essa necessidade ao disponibilizar dados sobre modais de transporte e custos associados, facilitando a identificação de padrões logísticos e contribuindo para a otimização das operações.
