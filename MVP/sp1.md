@@ -9,12 +9,11 @@ O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de aná
 
 - Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2022 e 2023) das regiões administrativas de São José do Rio Preto e Santos, permitindo:
 
--> Visualização clara dos fluxos de importação e exportação;
--> Identificação de principais produtos (NCM);
--> Análise de valores (FOB e frete);
--> Compreensão dos modais de transporte utilizados;
--> Visualização geográfica dos municípios;
-
+-> Visualização clara dos fluxos de importação e exportação
+-> Identificação de principais produtos (NCM)
+-> Análise de valores (FOB e frete)
+-> Compreensão dos modais de transporte utilizados
+-> Visualização geográfica dos municípios
 
 ---
 
