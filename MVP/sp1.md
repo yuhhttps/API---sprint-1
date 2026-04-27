@@ -86,8 +86,8 @@ O foco foi validar:
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como Analista Institucional de Dados, quero visualizar os dados de importação e exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       | 5 pontos   |
-| US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      | 5 pontos   |
-| US3 | Como Analista de Logística, quero visualizar as vias de transporte utilizadas e os custos de frete para entender a eficiência logística e possíveis otimizações.         | Alta      | 5 pontos   |
+| US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      | 4 pontos   |
+| US3 | Como Analista de Logística, quero visualizar quais produtos foram exportados e suas respectivas quantidades, para analisar produtos em tendência e seu volume para planejamento.         | Média      | 4 pontos   |
 | US4 | Como Analista Institucional de Dados, quero filtrar os dados por região administrativa e ano para realizar análises comparativas específicas.         | Média      | 3 pontos   |
 
 
@@ -96,7 +96,7 @@ O foco foi validar:
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Tabelas de importação e exportação (2021–2026), Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para as regiões de São José do Rio Preto e Santos (2022 e 2023).                        | Concluído|
+| 01     | Tabelas de importação e exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para as regiões de São José do Rio Preto e Santos (2022 e 2023).                        | Concluído|
 | 02     | (Continuidade do projeto seguindo correções e feedbakcs)                           | Em andamento |
 
 ---
@@ -104,7 +104,7 @@ O foco foi validar:
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize e analise dados de importação e exportação por município, região administrativa e período.  
 - O sistema deve registrar os dados de comércio exterior estruturados em tabelas de importação, exportação e regiões administrativas, garantindo a consistência das informações.
-- Métricas coletadas: tempo de resposta do dashboard, taxa de uso dos filtros e nível de interação com gráficos (cliques e seleções).  
+- Métricas coletadas: tempo de resposta do dashboard,  e nível de interação com gráficos (cliques e seleções).  
 
 ---
 
