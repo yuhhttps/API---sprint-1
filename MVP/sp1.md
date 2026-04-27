@@ -88,11 +88,8 @@ O foco foi validar:
 | US1 | Como Analista Institucional de Dados, quero visualizar os dados de importação e exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       | 5 pontos   |
 | US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      | 5 pontos   |
 | US3 | Como Analista de Logística, quero visualizar as vias de transporte utilizadas e os custos de frete para entender a eficiência logística e possíveis otimizações.         | Alta      | 5 pontos   |
-| US4 | Como Analista Institucional de Dados, quero filtrar os dados por região administrativa e ano para realizar análises comparativas específicas.         | Alta      | 3 pontos   |
-| US5 | Como Estudante/Pesquisador, quero visualizar gráficos da balança comercial para entender tendências ao longo do tempo.         | Média      | 3 pontos   |
-| US6 | Como Analista de Logística, quero identificar os principais produtos (NCM) transportados para analisar o impacto na cadeia logística.         | Média      | 3 pontos   |
-| US7 | Como Analista Institucional de Dados, quero visualizar os países de origem e destino das mercadorias para identificar mercados relevantes.         | Média      | 3 pontos   |
-| US8 | Como Estudante/Pesquisador, quero visualizar um mapa com os municípios para compreender a distribuição geográfica dos dados.         | Média      | 2 pontos   |
+| US4 | Como Analista Institucional de Dados, quero filtrar os dados por região administrativa e ano para realizar análises comparativas específicas.         | Média      | 3 pontos   |
+
 
 ---
 
