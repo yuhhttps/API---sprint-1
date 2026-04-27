@@ -82,7 +82,7 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize e analise dados de exportação por município e período.  
 - O sistema deve registrar os dados de comércio exterior estruturados em tabelas de exportação garantindo a consistência das informações.
-- Métricas coletadas: tempo de resposta do dashboard, nível de interação com gráficos (cliques e seleções) e visualização.  
+- Métricas coletadas: tempo de resposta do dashboard, nível de interação com gráficos (cliques e seleções) e visualização clara.  
 
 ---
 
