@@ -112,10 +112,22 @@ O foco foi validar:
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 2
+  Os testes foram realizados por membros da equipe, sendo Luiz Augusto (Scrum Master - SM) e Felipe Borges (Team Member - TM).
+    
+- Feedback qualitativo (positivo/negativo):
+  De forma geral, os feedbacks foram positivos, destacando a organização dos dados, a clareza das visualizações e a facilidade de uso dos filtros no dashboard. Os avaliadores relataram que a ferramenta permite compreender rapidamente os padrões de importação e exportação, facilitando a análise comparativa entre regiões.
+  
+- Indicadores de negócio:
 
+- Redução do tempo de análise de dados;
+- Aumento da eficiência na tomada de decisão;
+- Melhoria na visualização e interpretação das informações;
+- Apoio na identificação de oportunidades no comércio exterior;
+- Redução de custos operacionais com análise manual de dados;
+- Otimização de custos logísticos por meio da identificação de modais mais eficientes;
+- Melhoria na alocação de recursos com base em dados confiáveis.
+  
 ---
 
 ## 🚀 Próximos Passos
