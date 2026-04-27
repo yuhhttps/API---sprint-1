@@ -61,13 +61,15 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade |
-|-----|-----------------------------------------------------------------------------|------------|
-| US1 | Como Analista Institucional de Dados, quero visualizar os dados de exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       |
-| US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      |
-| US3 | Como Analista de Logística, quero visualizar quais produtos foram exportados e suas respectivas quantidades, para analisar produtos em tendência e seu volume para planejamento.         | Média      |
-| US4 | Como Analista Institucional de Dados, quero filtrar os dados por país e ano para realizar análises comparativas específicas.         | Média      |
-
+| Rank | Prioridade | User Story (Sprint 1) | Sprint |
+|------|------------|----------------------|--------|
+| 1 | Alta | Como cliente, quero selecionar países, para analisar dados de exportação por região. | 1 |
+| 2 | Alta | Como cliente, quero visualizar os municípios que realizam exportação, para entender a participação regional. | 1 |
+| 3 | Alta | Como cliente, quero visualizar a soma dos valores em dólar, para entender o volume financeiro do comércio exterior. | 1 |
+| 4 | Alta | Como cliente, quero visualizar os produtos exportados, para identificar os principais itens comercializados. | 1 |
+| 5 | Alta | Como cliente, quero selecionar o ano dos dados, para analisar a evolução ao longo do tempo. | 1 |
+| 6 | Média | Como cliente, quero visualizar os tipos de vias (aérea e marítima), para analisar como os produtos são transportados. | 1 |
+| 7 | Média | Como cliente, quero visualizar os locais de destino das mercadorias, para entender os fluxos logísticos. | 1 |
 
 ---
 
