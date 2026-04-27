@@ -7,7 +7,7 @@ O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de aná
 
 - Hipótese a ser validada: Se os dados de comércio exterior forem organizados, filtrados e apresentados de forma visual e interativa (via Power BI), será possível identificar padrões relevantes de exportação, facilitando análises estratégicas.
 
-- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2021 e 2022) dos municípios do estado de São Paulo, permitindo uma visualização clara dos fluxos de importação e exportação, identificação de principais produtos (NCM), compreensão dos modais de transporte utilizados e visualização geográfica dos municípios.
+- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2021 e 2022) dos municípios do estado de São Paulo, permitindo uma visualização clara dos fluxos de exportação, identificação de principais produtos (NCM), compreensão dos modais de transporte utilizados e visualização geográfica dos municípios.
 
 ---
 
