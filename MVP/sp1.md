@@ -100,7 +100,7 @@ O foco foi validar:
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Tabelas de importação e exportação (2021–2026), Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para as regiões de São José do Rio Preto e Santos (2022 e 2023).                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | [Andamento do projeto seguindo correções e feedbakcs]                           | Em andamento |
 
 ---
 
