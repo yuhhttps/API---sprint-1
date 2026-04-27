@@ -1,57 +1,35 @@
 # 📌 MVP - Aldo Pereira Solutions.
 
 ## 🎯 Objetivo do MVP:
-O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de análise e visualização de dados de comércio exterior no estado de São Paulo.
+O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de análise e visualização de dados de comércio exterior no estado de São Paulo e seus municípios.
 
-- Problema que resolve: Atualmente, informações sobre importação e exportação estão dispersas e pouco acessíveis para análise prática, dificultando a identificação de padrões logísticos, oportunidades de mercado e tomada de decisão estratégica.
+- Problema que resolve: Atualmente, informações sobre exportação estão dispersas e pouco acessíveis para análise prática, dificultando a identificação de padrões logísticos, oportunidades de mercado e tomada de decisão estratégica.
 
-- Hipótese a ser validada: Se os dados de comércio exterior forem organizados, filtrados e apresentados de forma visual e interativa (via Power BI), será possível identificar padrões relevantes de importação e exportação, facilitando análises estratégicas.
+- Hipótese a ser validada: Se os dados de comércio exterior forem organizados, filtrados e apresentados de forma visual e interativa (via Power BI), será possível identificar padrões relevantes de exportação, facilitando análises estratégicas.
 
-- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2021 e 2022) das regiões administrativas de São José do Rio Preto e Santos, permitindo:
-
--> Visualização clara dos fluxos de importação e exportação
-
--> Identificação de principais produtos (NCM)
-
--> Análise de valores (FOB e frete)
-
--> Compreensão dos modais de transporte utilizados
-
--> Visualização geográfica dos municípios
+- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2021 e 2022) dos municípios do estado de São Paulo, permitindo uma visualização clara dos fluxos de importação e exportação, identificação de principais produtos (NCM), compreensão dos modais de transporte utilizados e visualização geográfica dos municípios.
 
 ---
 
 ## 📝 Descrição da Solução
 Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comércio exterior, utilizando Python (Google Colab) para tratamento de dados e Power BI para visualização.
 
-✔ Funcionalidades principais: 
-**Criação de tabelas de:*
-- Exportação (2021 a 2026);
-- Importação (2021 a 2026);
-- Regiões administrativas;
+**✔ Funcionalidades principais:** 
 
-**Filtro de dados no Power BI para:**
-- Regiões: São José do Rio Preto e Santos;
-- Período: 2022 e 2023.
-
-**Visualização das seguintes informações:**
-- Código NCM (produto);
-- Valor FOB (US$);
-- Valor de frete;
-- País de origem/destino;
-- Via de transporte;
-- Mapa com municípios das regiões.
+- Criação de tabelas de exportação de São Paulo e municípios (2021 a 2022);
+- Dados COMEXSTAT tratados;
+- Gráficos interativos;
+- Interação com filtros.
+- Visualização de: Código NCM (produto), Valor FOB (US$), País de destino, Pia de transporte, Modais e Mapa dos países.
 
 
-⚠ Limitações conhecidas:
-- Análise restrita a apenas 2 regiões administrativas;
-- Dados filtrados apenas para 2 anos (2022 e 2023);
+**⚠ Limitações conhecidas:**
+- Análise restrita a apenas para exportação;
+- Dados filtrados apenas para 2 anos (2021 e 2022);
 - Interface limitada ao Power BI (não acessível externamente).
 
 
 🎯 Escopo reduzido (MVP)
-
-O foco foi validar:
 
 - Estruturação dos dados;
 - Capacidade de filtragem;
@@ -96,15 +74,15 @@ O foco foi validar:
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Tabelas de importação e exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para as regiões de São José do Rio Preto e Santos (2022 e 2023).                        | Concluído|
-| 02     | (Continuidade do projeto seguindo correções e feedbakcs)                           | Em andamento |
+| 01     | Tabelas de exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para São Paulo.                        | Concluído|
+| 02     | (Expansão e continuidade do projeto seguindo correções e feedbakcs)                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize e analise dados de importação e exportação por município, região administrativa e período.  
-- O sistema deve registrar os dados de comércio exterior estruturados em tabelas de importação, exportação e regiões administrativas, garantindo a consistência das informações.
-- Métricas coletadas: tempo de resposta do dashboard,  e nível de interação com gráficos (cliques e seleções).  
+- O MVP deve permitir que o usuário visualize e analise dados de exportação por município e período.  
+- O sistema deve registrar os dados de comércio exterior estruturados em tabelas de exportação garantindo a consistência das informações.
+- Métricas coletadas: tempo de resposta do dashboard, nível de interação com gráficos (cliques e seleções) e visualização.  
 
 ---
 
@@ -117,7 +95,7 @@ Os testes foram realizados por membros da equipe, sendo Luiz Augusto (Scrum Mast
     
 **Feedback qualitativo (positivo/negativo):**
 
-De forma geral, os feedbacks foram positivos, destacando a organização dos dados, a clareza das visualizações e a facilidade de uso dos filtros no dashboard. Os avaliadores relataram que a ferramenta permite compreender rapidamente os padrões de importação e exportação, facilitando a análise comparativa entre regiões.
+De forma geral, os feedbacks foram positivos, destacando a organização dos dados, a clareza das visualizações e a facilidade de uso dos filtros no dashboard. Os avaliadores relataram que a ferramenta permite compreender rapidamente os padrões de exportação, facilitando a análise comparativa entre municípios e países.
 
   
 **Indicadores de negócio:**
@@ -140,6 +118,33 @@ De forma geral, os feedbacks foram positivos, destacando a organização dos dad
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+
+**- Prints de tela:**
+  
+<img width="1313" height="735" alt="WhatsApp Image 2026-04-26 at 22 30 17" src="https://github.com/user-attachments/assets/46797722-b671-417b-b349-595dcb99f839" />
+
+<img width="1333" height="752" alt="WhatsApp Image 2026-04-26 at 22 30 18" src="https://github.com/user-attachments/assets/86115b80-358c-4dc0-9ea6-db9cf72e64b5" />
+
+<img width="1600" height="620" alt="WhatsApp Image 2026-04-26 at 22 30 18 (2)" src="https://github.com/user-attachments/assets/5ce27124-a4cd-4a6d-b667-46f7f7a7c4a1" />
+
+<img width="1600" height="682" alt="WhatsApp Image 2026-04-26 at 22 30 19" src="https://github.com/user-attachments/assets/5e84f65d-dd25-45a5-886b-2e0923d8695d" />
+
+<img width="1389" height="388" alt="WhatsApp Image 2026-04-26 at 22 30 20 (1)" src="https://github.com/user-attachments/assets/72e03c91-188e-4e3f-85ac-91602c2f2b9b" />
+
+<img width="1600" height="518" alt="WhatsApp Image 2026-04-26 at 22 30 20" src="https://github.com/user-attachments/assets/8f585a79-fd3f-4d24-b414-a6ffe9a9d1c9" />
+
+    
+**- Fluxos ou protótipos:**  
+
+- Dados de exportação: [Dados de exportação.pbix.zip](https://github.com/user-attachments/files/27131820/Dados.de.exportacao.pbix.zip)
+
+  
+- Códigos
+
+(https://drive.google.com/drive/u/3/folders/19I9O8V90gx16whe9Dl3pl7t601oejvzJ)
+
+(https://drive.google.com/drive/u/3/folders/1OVMyGKbBzg-0-vlNbANG84wm4vDldCJl)
+
+
+**- Vídeo (MVP):**  
