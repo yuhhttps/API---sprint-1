@@ -43,7 +43,7 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 
 👥 **Persona 1: Analista Institucional de Dados (CADI).**
 - Descrição: Analista responsável pelo acompanhamento do desempenho dos municípios no comércio exterior.
-- Necessidades: Analisar grandes volumes de dados de importação e exportação para identificar padrões, tendências e comparações entre municípios. No entanto, existem dificuldades devido à falta de organização e padronização dessas informações, além do alto tempo necessário para tratamento manual dos dados.
+- Necessidades: Analisar grandes volumes de dados de exportação para identificar padrões, tendências e comparações entre municípios. No entanto, existem dificuldades devido à falta de organização e padronização dessas informações, além do alto tempo necessário para tratamento manual dos dados.
 - Dores atendidas: Estruturação e apresentação dos dados de forma visual e interativa, permitindo análises mais rápidas, comparações regionais eficientes e estratégicos com menor esforço operacional.
 
     
@@ -56,17 +56,17 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 👥 **Persona 3: Analista de Logística**
 - Descrição: Profissional responsável pelo planejamento e otimização de transporte e distribuição.
 - Necessidades: O analista de logística busca entender quais vias de transporte e modais são mais utilizadas. Entretanto, a falta de dados integrados e de fácil visualização dificulta a análise logística completa.
-- Dores atendidas: Atendemos essa necessidade ao disponibilizar dados sobre modais de transporte e suas respectivas vias, facilitando a identificação de padrões logísticos e contribuindo para a otimização das operações.
+- Dores atendidas: Disponibilização de dados sobre modais de transporte e suas respectivas vias, facilitando a identificação de padrões logísticos e contribuindo para a otimização das operações.
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade |
 |-----|-----------------------------------------------------------------------------|------------|
-| US1 | Como Analista Institucional de Dados, quero visualizar os dados de importação e exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       |
+| US1 | Como Analista Institucional de Dados, quero visualizar os dados de exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       |
 | US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      |
 | US3 | Como Analista de Logística, quero visualizar quais produtos foram exportados e suas respectivas quantidades, para analisar produtos em tendência e seu volume para planejamento.         | Média      |
-| US4 | Como Analista Institucional de Dados, quero filtrar os dados por região administrativa e ano para realizar análises comparativas específicas.         | Média      |
+| US4 | Como Analista Institucional de Dados, quero filtrar os dados por país e ano para realizar análises comparativas específicas.         | Média      |
 
 
 ---
@@ -106,7 +106,6 @@ De forma geral, os feedbacks foram positivos, destacando a organização dos dad
 - Apoio na identificação de oportunidades no comércio exterior;
 - Redução de custos operacionais com análise manual de dados;
 - Otimização de custos logísticos por meio da identificação de modais mais eficientes;
-- Melhoria na alocação de recursos com base em dados confiáveis.
   
 ---
 
