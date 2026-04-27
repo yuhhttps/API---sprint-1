@@ -1,13 +1,13 @@
 # 📌 MVP - Aldo Pereira Solutions.
 
 ## 🎯 Objetivo do MVP:
-O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de análise e visualização de dados de comércio exterior no estado de São Paulo, com foco inicial em regiões específicas.
+O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de análise e visualização de dados de comércio exterior no estado de São Paulo.
 
 - Problema que resolve: Atualmente, informações sobre importação e exportação estão dispersas e pouco acessíveis para análise prática, dificultando a identificação de padrões logísticos, oportunidades de mercado e tomada de decisão estratégica.
 
 - Hipótese a ser validada: Se os dados de comércio exterior forem organizados, filtrados e apresentados de forma visual e interativa (via Power BI), será possível identificar padrões relevantes de importação e exportação, facilitando análises estratégicas.
 
-- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2022 e 2023) das regiões administrativas de São José do Rio Preto e Santos, permitindo:
+- Valor entregue ao usuário final: O MVP entrega um painel interativo com dados filtrados de comércio exterior (2021 e 2022) das regiões administrativas de São José do Rio Preto e Santos, permitindo:
 
 -> Visualização clara dos fluxos de importação e exportação
 
