@@ -114,10 +114,12 @@ O foco foi validar:
 ## 📈 Métricas de Validação
 
 - **Número de usuários que testaram o MVP:** 2
+
 Os testes foram realizados por membros da equipe, sendo Luiz Augusto (Scrum Master - SM) e Felipe Borges (Team Member - TM).
 
     
 - **Feedback qualitativo (positivo/negativo):**
+
 De forma geral, os feedbacks foram positivos, destacando a organização dos dados, a clareza das visualizações e a facilidade de uso dos filtros no dashboard. Os avaliadores relataram que a ferramenta permite compreender rapidamente os padrões de importação e exportação, facilitando a análise comparativa entre regiões.
 
   
