@@ -61,12 +61,12 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como Analista Institucional de Dados, quero visualizar os dados de importação e exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       | 5 pontos   |
-| US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      | 4 pontos   |
-| US3 | Como Analista de Logística, quero visualizar quais produtos foram exportados e suas respectivas quantidades, para analisar produtos em tendência e seu volume para planejamento.         | Média      | 4 pontos   |
-| US4 | Como Analista Institucional de Dados, quero filtrar os dados por região administrativa e ano para realizar análises comparativas específicas.         | Média      | 3 pontos   |
+| ID  | User Story                                                                 | Prioridade |
+|-----|-----------------------------------------------------------------------------|------------|
+| US1 | Como Analista Institucional de Dados, quero visualizar os dados de importação e exportação por município e período para identificar padrões e comparar o desempenho entre regiões.         | Alta       |
+| US2 | Como Estudante/Pesquisador, quero acessar dados organizados e filtráveis para realizar análises acadêmicas com maior rapidez e confiabilidade.         | Alta      |
+| US3 | Como Analista de Logística, quero visualizar quais produtos foram exportados e suas respectivas quantidades, para analisar produtos em tendência e seu volume para planejamento.         | Média      |
+| US4 | Como Analista Institucional de Dados, quero filtrar os dados por região administrativa e ano para realizar análises comparativas específicas.         | Média      |
 
 
 ---
