@@ -48,20 +48,20 @@ Os objetivos estabelecidos para esse projeto consistem em:
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como cliente, quero acessar um dashboard no PowerBI contendo os dados de exportação para obter uma visão maior e mais rápida do panorama comercial de São Paulo sem precisar manipular bases brutas.                                                    | 1      |
-| 2    | Alta       | Como cliente, quero que o script Python no Google Colab cruze os dados brutos do ComexStat com a tabela de códigos de municípios do IBGE para garantir que os nomes das cidades de São Paulo estejam normalizados e sem erros de grafia  para o Power BI.                                                                    | 5          | 1      |
-| 3    | Alta       | Como cliente, quero visualizar a evolução histórica das exportações de SJC por categoria de produto, para monitorar a dependência de insumos externos e o crescimento industrial local.                                               | 2      |
-| 4  | Alta      | Como cliente, quero comparar o saldo comercial entre diferentes municípios no período de 2021 a 2022 para identificar quais regiões apresentam maior resiliência econômica.                                                                                                           | 3    |
-| 5   | Alta      | Como cliente, quero que toda a origem dos dados e as fórmulas de cálculo (como o Saldo Comercial) estejam documentadas e versionadas, para que eu tenha total confiança de que os números apresentados no dashboard são verídicos e auditáveis.                                                    | 3      |
-| 6   | Média      | Como cliente, quero analisar apenas pesquisas vindas de arquivos do portal ComexStat para garantir que a base de dados do projeto contenha as estatísticas mais recentes e confiáveis.                                                    || 1      |
-| 7   | Média      | Como cliente, quero identificar os modais de transporte predominantes no estado de SP para priorizar investimentos em infraestrutura e manutenção dessas vias.                                                    | 3          | 2      |
-| 8   | Média      | Como Cliente, quero filtrar as exportações do vale do Paraíba por categoria de produto (NCM) e país de destino, para identificar padrões comerciais e oportunidades de mercado.                                                    | 3      |
-| 9   | Baixa      | Como cliente, quero interagir com os filtros de data e categoria de produto a fim de verificar o que exporta mais e o que exporta de menos.                                                    | 1      |
-| 10   | Baixa      | Como cliente, quero visualizar um ranking dos modais de transporte menos utilizados nas exportações para identificar oportunidades de diversificação logística ou gargalos em modais subutilizados.                                                    | 2      |
-| 11   | Baixa      | Como cliente, quero filtrar os principais países parceiros comerciais do estado de SP para entender a influência geopolítica e econômica de mercados estrangeiros na economia paulista.                                                    | 2      |
-| 12   | Baixa      | Como cliente, quero que cada etapa da limpeza de dados realizada no Google Colab, seja salva em abas separadas no GitHub para manter um histórico de versões e evitar a perda de progresso durante o desenvolvimento.                                                    | 3      |
+| Rank | Prioridade | User Story | Sprint |
+|------|------------|------------|--------|
+| 1 | Alta | Como cliente, quero acessar um dashboard no PowerBI contendo os dados de exportação do estado de São Paulo e seus municípios nos anos de 2021 e 2022, para obter uma visão rápida do panorama comercial sem precisar manipular bases brutas. | 1 |
+| 2 | Alta | Como cliente, quero que o script Python no Google Colab cruze os dados brutos do ComexStat com a tabela de códigos de municípios do IBGE, para garantir que os nomes das cidades de São Paulo estejam normalizados e sem erros de grafia no Power BI. | 1 |
+| 3 | Alta | Como cliente, quero visualizar a evolução histórica das exportações de São José dos Campos por categoria de produto, para analisar o desempenho econômico do município ao longo do tempo. | 2 |
+| 4 | Alta | Como cliente, quero comparar o saldo comercial entre diferentes municípios no período de 2021 a 2022, para identificar quais regiões apresentam maior resiliência econômica. | 3 |
+| 5 | Alta | Como cliente, quero que toda a origem dos dados e as fórmulas de cálculo estejam documentadas e versionadas, para garantir confiança e auditabilidade das informações apresentadas. | 3 |
+| 6 | Média | Como cliente, quero utilizar apenas dados provenientes do portal ComexStat, para garantir que a base de dados contenha informações oficiais e confiáveis. | 1 |
+| 7 | Média | Como cliente, quero identificar os modais de transporte predominantes no estado de São Paulo, para apoiar decisões de investimento em infraestrutura. | 2 |
+| 8 | Média | Como cliente, quero filtrar as exportações do Vale do Paraíba por categoria de produto (NCM) e país de destino, para identificar padrões comerciais e oportunidades de mercado. | 3 |
+| 9 | Baixa | Como cliente, quero interagir com filtros de data e categoria de produto, para analisar quais itens possuem maior e menor volume de exportação. | 1 |
+| 10 | Baixa | Como cliente, quero visualizar um ranking dos modais de transporte menos utilizados nas exportações, para identificar oportunidades de diversificação logística. | 2 |
+| 11 | Baixa | Como cliente, quero visualizar os principais países parceiros comerciais do estado de São Paulo, para entender a influência dos mercados internacionais. | 2 |
+| 12 | Baixa | Como cliente, quero que cada etapa da limpeza de dados realizada no Google Colab seja versionada no GitHub, para manter histórico e evitar perda de progresso. | 3 |
 
 
 
